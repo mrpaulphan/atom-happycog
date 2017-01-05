@@ -2,7 +2,7 @@
   "name": "atom-happycog",
   "main": "./lib/atom-happycog",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "This package adds the project icons to give Atom some more style",
   "keywords": [
     "hc",
     "happycog"
