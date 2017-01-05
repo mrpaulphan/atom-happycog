@@ -6,4 +6,4 @@ Open Settings → Install and search for atom-happycog.
 
 Alternatively, install through command-line:
 
-apm install atom-happycog
+`apm install atom-happycog`

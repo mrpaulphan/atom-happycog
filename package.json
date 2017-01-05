@@ -4,11 +4,13 @@
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [
+    "hc",
+    "happycog"
   ],
   "activationCommands": {
     "atom-workspace": "atom-happycog:toggle"
   },
-  "repository": "https://github.com/atom/atom-happycog",
+  "repository": "https://github.com/mrpaulphan/atom-happycog",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
