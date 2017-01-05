@@ -8,9 +8,7 @@
     "happycog",
     "cog"
   ],
-  "activationCommands": {
-    "atom-workspace": "atom-happycog:toggle"
-  },
+  "activationCommands": {  },
   "repository": "https://github.com/mrpaulphan/atom-happycog",
   "license": "MIT",
   "engines": {
