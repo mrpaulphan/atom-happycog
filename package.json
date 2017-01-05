@@ -1,7 +1,7 @@
 {
   "name": "atom-happycog",
   "main": "./lib/atom-happycog",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your package",
   "keywords": [
     "hc",
@@ -15,6 +15,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
