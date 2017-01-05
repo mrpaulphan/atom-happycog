@@ -2,10 +2,11 @@
   "name": "atom-happycog",
   "main": "./lib/atom-happycog",
   "version": "0.1.1",
-  "description": "This package adds the project icons to give Atom some more style",
+  "description": "Simple Atom package for all things Happycog",
   "keywords": [
     "hc",
-    "happycog"
+    "happycog",
+    "cog"
   ],
   "activationCommands": {
     "atom-workspace": "atom-happycog:toggle"
