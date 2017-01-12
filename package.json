@@ -1,7 +1,7 @@
 {
   "name": "atom-happycog",
   "main": "./lib/atom-happycog",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Simple Atom package for all things Happycog",
   "keywords": [
     "hc",
